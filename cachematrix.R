@@ -1,6 +1,6 @@
 ## This code contains two functions to calculate the inverse of the matrix
 ## it tries to use cached inverse of the matrix if it has been calculated before
-cCa
+
 
 ## The first function 'makeCacheMatrix; returns a special list containing 4 functions:
 # 1. set the value of the matrix
